@@ -1,3 +1,6 @@
+
+//                                DATA TYPES AND VARIABLES
+
 public class Day2 {
     public static void main(String args[]) {
         // int num;
